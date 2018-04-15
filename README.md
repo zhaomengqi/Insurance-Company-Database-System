@@ -8,7 +8,8 @@
 ### The goal : 
 Enabled login facilities for Spring MVC system and SQL Server, authorized Insurance Company to manage and track status of their customers' requests, invoices and payment. Provided add, update, delete and search functions from database system of SQL server.
 
-### Technologies: HTML5, CSS3, JavaScript, AngularJS, JQuery, AJAX, SVN, JSP, Hibernate, MVC, My SQL, Sass, Linux.
+### Technologies: 
+HTML5, CSS3, JavaScript, AngularJS, JQuery, AJAX, SVN, JSP, Hibernate, MVC, My SQL, Sass, Linux.
 
 ### Including : 
 • Designed and Developed web application using Java / J2EE, Session Beans, JSP, Servlet, JavaScript, AJAX, XML, Eclipse, Dreamweaver, SVN, Microsoft Windows, Linux, Oracle.
