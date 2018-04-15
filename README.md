@@ -4,9 +4,10 @@
 ### https://www.screencast.com/t/L01VCKSZU7W
 ### https://www.screencast.com/t/LyQfoxp9DZ
 
-## Enabled login facilities for Spring MVC system and SQL Server, authorized Insurance Company to manage and track status of their customers' requests, invoices and payment. Provided add, update, delete and search functions from database system of SQL server.
+### The goal : 
+Enabled login facilities for Spring MVC system and SQL Server, authorized Insurance Company to manage and track status of their customers' requests, invoices and payment. Provided add, update, delete and search functions from database system of SQL server.
 
-
+### Including : 
 • Designed and Developed web application using Java / J2EE, Session Beans, JSP, Servlet, JavaScript, AJAX, XML, Eclipse, Dreamweaver, SVN, Microsoft Windows, Linux, Oracle.
 
 • Responsibilities include design, development and testing of the accounts, as well as agent to Bank money transfer features.
